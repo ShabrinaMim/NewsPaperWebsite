@@ -1,0 +1,1 @@
+$connection  = mysqli_connect("localhost", "root", "", "newspaper") or die("Connection Failed");
